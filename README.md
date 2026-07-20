@@ -63,29 +63,29 @@ This project detects phishing emails using an Improved RCNN deep learning model.
 
 ## Screenshots
 
-### Registration Form
+### 1. Registration Form
 ![Registration Form](registration_form.png)
 
-### Sign In Page
+### 2. Sign In Page
 ![Sign In Page](Sign_In_Page.png)
 
-### Compose Email
+### 3. My Details
+![My Details](My_Details.png)
+
+### 4. Compose Email
 ![Compose Email](Compose_Email.png)
 
-### Inbox Message
-![Inbox Message](Inbox_Message.png)
-
-### Checking Phishing
+### 5. Checking Phishing
 ![Checking Phishing](Checking_Phishing.png)
 
-### Phishing Result
+### 6. Inbox Message
+![Inbox Message](Inbox_Message.png)
+
+### 7. Phishing Result
 ![Phishing Result](Phishing_Result.png)
 
-### Feedback
+### 8. Feedback
 ![Feedback](Feedback.png)
-
-### My Details
-![My Details](My_Details.png)
 
 ## Author
 Aashritha Maroju
