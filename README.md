@@ -67,7 +67,7 @@ This project detects phishing emails using an Improved RCNN deep learning model.
 ![Registration Form](registration_form.png)
 
 ### Sign In Page
-![Sign In Page](Sign In_Page.png)
+![Sign In Page](Sign_In_Page.png)
 
 ### Compose Email
 ![Compose Email](Compose_Email.png)
